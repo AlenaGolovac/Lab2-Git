@@ -3,9 +3,12 @@
 
 class Calculator{
 
-public: 
+public:
+        //Функція додавання двох чисел 
         static	int Add (double a, double b);
+        //Функція віднімання двох чисел
 	static	int Sub (double a, double b);
+        //Функція множення двох чисел
         static  int Mul (double a, double b);
 };
 
